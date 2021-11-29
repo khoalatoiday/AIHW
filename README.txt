@@ -33,6 +33,6 @@ Nhìn qua thì có thể chia 4 phần như sau
 
 Trước mắt thì t cứ mở bát phần 1 nhé, do trong trường hợp nếu chỉ cần 1 người nói. Mn cứ xem qua rồi t2 hoặc t3 call 
 
-Thân ái :))))
+Thân ái :))
 
 
