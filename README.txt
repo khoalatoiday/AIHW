@@ -29,8 +29,7 @@ Nhìn qua thì có thể chia 4 phần như sau
 - Train model CNN và mô hình CNN
 - Giải thích thuật toán hair-feature like của viola jones algorithm (chỉ giải thích, không code do khá nặng)
 - Load model và sử dụng hair-feature (cái này có sẵn rồi chỉ cần nhúng vào là xong). Đoạn này sẽ giải thích cơ chế real-camera để lấy ảnh
-- Ứng dụng và tự train lại model với dataset của chính mình(demo 2): cái này là sử dụng lại những gì của 3 cái trên và có thể giải thích lại code(không cần giải thích thuật toán). T đang suy nghĩ không biết có nên train với 1 model khác hoàn toàn không. Ở đây thì người ta đang train với SVM
-
+- Ứng dụng và tự train lại model với dataset của chính mình(demo 2): giải thích phần tự build data và đánh giá độ chính xác của 2 dataset
 Trước mắt thì t cứ mở bát phần 1 nhé, do trong trường hợp nếu chỉ cần 1 người nói. Mn cứ xem qua rồi t2 hoặc t3 call 
 
 Thân ái :))
